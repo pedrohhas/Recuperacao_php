@@ -102,7 +102,7 @@ Exibe abas e formulários
 
 Você pode adicionar imagens da sua interface aqui:
 
-![Tela Cadastro](./cadastro.png)
+![Tela Cadastrar](./cadastrar.png)
 ![Tela Alterar](./alterar.png)
 ![Tela Excluir](./excluir.png)
 ![Tela Consultar](./consultar.png)
