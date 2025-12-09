@@ -15,15 +15,6 @@ O sistema utiliza **PDO com MySQL**, interface simples em abas (Tabs) e funciona
 
 ---
 
-## 🛠 Tecnologias Utilizadas
-
-- **PHP** (PDO)
-- **MySQL**
-- **HTML5**
-- **CSS3**
-- **JavaScript**
-- **XAMPP** (recomendado)
-
 ---
 📂 Arquivo Com o Código PHP
 
